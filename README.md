@@ -2,10 +2,10 @@
 
 A new Flutter project.
 
-![IMG-20230622-WA0015](https://github.com/AkashS0510/GPA-Calculator-Flutter/assets/96624761/4b150140-ac5b-4ad3-8d11-524df58003e6)=250x250
-![IMG-20230622-WA0016](https://github.com/AkashS0510/GPA-Calculator-Flutter/assets/96624761/d1fb8b88-786a-4769-9db0-0ade92e697d4)=250x250
-![IMG-20230622-WA0017](https://github.com/AkashS0510/GPA-Calculator-Flutter/assets/96624761/4923dcd3-570b-4d70-a22e-f53c51247413)=250x250
-![IMG-20230622-WA0018](https://github.com/AkashS0510/GPA-Calculator-Flutter/assets/96624761/3953e1b1-b255-4851-a047-9244f30a1e5a)=250x250
+![IMG-20230622-WA0015](https://github.com/AkashS0510/GPA-Calculator-Flutter/assets/96624761/4b150140-ac5b-4ad3-8d11-524df58003e6)
+![IMG-20230622-WA0016](https://github.com/AkashS0510/GPA-Calculator-Flutter/assets/96624761/d1fb8b88-786a-4769-9db0-0ade92e697d4)
+![IMG-20230622-WA0017](https://github.com/AkashS0510/GPA-Calculator-Flutter/assets/96624761/4923dcd3-570b-4d70-a22e-f53c51247413)
+![IMG-20230622-WA0018](https://github.com/AkashS0510/GPA-Calculator-Flutter/assets/96624761/3953e1b1-b255-4851-a047-9244f30a1e5a)
 
 
 
